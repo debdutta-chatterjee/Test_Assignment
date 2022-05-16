@@ -1,0 +1,8 @@
+com\automation\Test_Project\AppTest.class
+com\stepDefinition\Flipkart_Scenario.class
+com\pageobjects\CheckoutPage.class
+com\stepDefinition\Base.class
+com\pageobjects\HomePage.class
+com\utility\PropertiesUtil.class
+com\pageobjects\ProductPage.class
+com\utility\GenericUtil.class
